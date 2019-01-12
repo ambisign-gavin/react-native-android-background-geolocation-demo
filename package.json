@@ -1,7 +1,7 @@
 {
-  "name": "react-native-android-location-service-demo",
+  "name": "react-native-android-background-geolocation-demo",
   "version": "0.1.0",
-  "description": "A demo of the react-native-android-location-service",
+  "description": "A demo of the react-native-android-background-geolocation",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "android": "react-native run-android"
@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.6.3",
     "react-native": "0.57.8",
-    "react-native-android-location-service": "^0.1.0"
+    "react-native-android-background-geolocation": "^0.1.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
