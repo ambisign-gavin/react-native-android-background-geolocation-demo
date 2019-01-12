@@ -1,6 +1,6 @@
 # React Native Android Location Service Demo
 
-This is a demo of the `react-native-android-location-service`.
+This is a demo of the [react-native-android-location-service](https://github.com/ambisign-gavin/react-native-android-location-service).
 
 ## Usage
 
