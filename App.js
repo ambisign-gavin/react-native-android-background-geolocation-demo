@@ -1,7 +1,7 @@
 // @flow
 import React, {Component} from 'react';
 import { StyleSheet, Text, View, PermissionsAndroid, TouchableOpacity } from 'react-native';
-import LocationService, { PriorityModeEnum } from 'react-native-android-location-service';
+import LocationService, { PriorityModeEnum } from 'react-native-android-background-geolocation';
 
 export default class App extends Component<{}> {
 
